@@ -1,0 +1,32 @@
+[
+  {
+    "Time_min":0,
+    "Run1_Low_UV_mol_L":0.8,
+    "Run2_High_UV_mol_L":0.8
+  },
+  {
+    "Time_min":10,
+    "Run1_Low_UV_mol_L":0.54,
+    "Run2_High_UV_mol_L":0.44
+  },
+  {
+    "Time_min":20,
+    "Run1_Low_UV_mol_L":0.36,
+    "Run2_High_UV_mol_L":0.24
+  },
+  {
+    "Time_min":30,
+    "Run1_Low_UV_mol_L":0.24,
+    "Run2_High_UV_mol_L":0.13
+  },
+  {
+    "Time_min":40,
+    "Run1_Low_UV_mol_L":0.16,
+    "Run2_High_UV_mol_L":0.07
+  },
+  {
+    "Time_min":50,
+    "Run1_Low_UV_mol_L":0.11,
+    "Run2_High_UV_mol_L":0.04
+  }
+]
